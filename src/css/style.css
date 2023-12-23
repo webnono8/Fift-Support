@@ -20,9 +20,23 @@ header{
 }
 
 #img-fift{
-    height: 20%;
-    width: 20;
+    position: relative;
+    top: 10%;
+    left: 1%;
+    height: 80%;
+    width: 80;
+    border-radius: 100%;
 }
+
+
+/*-- TITLE --*/
+
+/*-- title-purple --*/
+
+.title-purple{
+    color: purple;
+}
+
 
 /*-- SCROLLBAR --*/
 
