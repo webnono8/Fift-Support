@@ -1,5 +1,37 @@
 /*---------------------- style.css ----------------------*/
 
+/*-- IMPORT --*/
+
+@import url("../css/home.css");
+
 body {
-    background-color: aqua;
+    background-color:thistle;
 }
+
+/*-- HEADER --*/
+
+header{
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    background-color: rgb(131, 13, 114);
+    height: 8%;
+    width: 100%;
+}
+
+#img-fift{
+    height: 20%;
+    width: 20;
+}
+
+/*-- SCROLLBAR --*/
+
+
+/* ::-webkit-scrollbar-thumb {
+    border: solid 0 transparent;
+    background-color: #555;
+}
+::-webkit-scrollbar {
+    width: 8px;
+    background: rgba(0, 0, 0, 0.886);
+} */

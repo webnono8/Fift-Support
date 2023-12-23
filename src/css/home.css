@@ -1,0 +1,12 @@
+/*---------------------- home.css ----------------------*/
+
+/*-- FEATURES SECTION --*/
+
+#sec-features{
+    position: absolute;
+    top: 70%;
+    left: 0%;
+    background-color:darkmagenta;
+    height: 100%;
+    width: 100%;
+}
