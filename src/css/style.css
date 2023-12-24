@@ -64,7 +64,8 @@ header{
 /*-- LINK --*/
 
 a{
-    
+    text-decoration: none;
+    color: none;
 }
 
 /*-- FOOTER --*/

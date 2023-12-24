@@ -8,4 +8,4 @@
 
 Pour les statistiques essayez de récupérer les infos en "real time".
 
-Ajout de differents language au site web
+Revoir le script translate
