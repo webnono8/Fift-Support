@@ -4,8 +4,13 @@
 
 @import url("../css/home.css");
 
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
 body {
     background-color:thistle;
+    font-family: 'Roboto', sans-serif;
 }
 
 /*-- HEADER --*/
@@ -26,6 +31,12 @@ header{
     height: 80%;
     width: 80;
     border-radius: 100%;
+}
+
+#title_fift{
+    position: absolute;
+    font-family: 'Orbitron', sans-serif;
+    text-decoration: none;
 }
 
 
@@ -49,3 +60,15 @@ header{
     width: 8px;
     background: rgba(0, 0, 0, 0.886);
 } */
+
+/*-- LINK --*/
+
+a{
+    
+}
+
+/*-- FOOTER --*/
+
+footer{
+
+}
