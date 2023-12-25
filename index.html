@@ -22,20 +22,21 @@
         <!---->
         <nav>
             <ul>
-                <li>Premium</li>
-                <li>Bot Invite</li>
-                <li>Support Server</li>
-                <li>Docs</li>
+                <li id="nav-premium"><a href="src/pages/premium.html">Premium</a></li>
+                <li id="nav-bot"><a href="src/pages/bot_invite.html">Bot Invite</a></li>
+                <li id="nav-support"><a href="src/pages/support_server.html">Support Serve</a></li>
+                <li id="nav-docs"><a href="src/pages/docs.html">Docs</a></li>
             </ul>
         </nav>
         <!---->
         <select id="languageSelector" onchange="changeLanguage()">
-            <option value="en">English</option>
-            <option value="fr">Français</option>
+            <option value="en">EN</option>
+            <option value="fr">FR</option>
+            <option value="es">ES</option>
         </select>
         <!---->
-        <button>Sign Up</button>
-        <button>Login</button>
+        <button id="btn-sign"><a href="src/pages/sign_up.html" style="color: black;">Sign Up</a></button>
+        <button id="btn-login"><a href="src/pages/login.html" style="color: black;">Login</a></button>
     </header>
 
     <!-- HOME DIV -->
@@ -44,8 +45,8 @@
         <h1>Fift</h1>
         <h2>The bird that will make you soar</h2>
         <!---->
-        <button>Invite Fift</button>
-        <button>Manage Servers</button>
+        <button><a href="https://discord.com/api/oauth2/authorize?client_id=952994111982567454&permissions=8&scope=bot">Invite Fift</a></button>
+        <button><a href="#">Manage Servers</a></button>
     </div>
 
     <!-- FEATURES SECTION -->
@@ -134,10 +135,10 @@
     <!-- FOOTER -->
 
     <footer>
-        <h3>Fift by webnono</h3>
+        <h4 id="title-footer">Fift by <a href="https://webnono8.github.io/Portfolio/pages/">webnono</a></h4>
         <!---->
-        <h2>Terms of Service</h2>
-        <h2>Privacy Policy</h2>
+        <h4 id="terms-footer"><a>Terms of Service</a></h4>
+        <h4 id="privacy-footer"><a>Privacy Policy</a></h4>
     </footer>
 
     <!-- JAVASCRIPT -->
