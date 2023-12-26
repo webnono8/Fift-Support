@@ -1,4 +1,15 @@
 {
     "title-fift": "FIFT",
-    "div-custo": "FULL CUSTOMISATION"
+    "nav-premium": "Premium",
+    "nav-bot": "Bot Invite",
+    "nav-support": "Support Server",
+    "nav-docs": "Docs",
+    "btn-sign": "Sign Up",
+    "btn-login": "Login",
+    "title-home-fift": "Fift Discord Bot",
+    "subtitle-quote": "The bird that will make you soar",
+    "btn-invite": "Invite Fift",
+    "btn-manage": "Manage Servers",
+    "title-features": "Features",
+    "subtitle-custo": "FULL CUSTOMISATION"
 }
